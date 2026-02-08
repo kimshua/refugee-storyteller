@@ -104,7 +104,7 @@ const Navbar: React.FC = () => {
             to="/about" 
             className={`hover:text-white transition-colors ${location.pathname === '/about' ? 'text-white' : ''}`}
           >
-            About
+            About me
           </Link>
         </div>
       </div>

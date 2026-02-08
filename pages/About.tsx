@@ -14,7 +14,7 @@ const About: React.FC = () => {
         transition={{ duration: 0.6 }}
       >
         <h1 className="text-4xl md:text-6xl font-bold mb-8 tracking-tighter">
-          About the Project
+          About
         </h1>
         
         <div className="space-y-8 text-lg text-gray-400 font-light leading-relaxed">
