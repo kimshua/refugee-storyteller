@@ -17,8 +17,7 @@ const Home: React.FC = () => {
           Voices from afar.
         </h1>
         <p className="text-lg md:text-xl text-gray-400 font-light leading-relaxed max-w-xl mx-auto">
-          Behind every statistic is a human name. <br />
-          Select a journey below to step into their world.
+          Select a journey below to step into their world. That I saw.
         </p>
       </motion.section>
 
