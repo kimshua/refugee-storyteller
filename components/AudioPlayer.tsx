@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { useLocation } from 'react-router-dom';
 import { STORIES } from '../constants';
 
-const DEFAULT_THEME: string | null = null; // Audio plays only on story pages
+const DEFAULT_THEME = "/audio/main audio.mp3";
 const BASE_VOLUME = 0.5; 
 const FADE_DURATION = 1500; // ms
 const FADE_INTERVAL = 50; // ms
