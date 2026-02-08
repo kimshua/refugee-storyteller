@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 // REPLACE THIS WITH YOUR OWN IMAGE URL
 // If you have a local file, you can put it in your public folder and use "/my-image.jpg"
-const AUTHOR_IMAGE = "https://picsum.photos/seed/author/400/400";
+const AUTHOR_IMAGE = "https://www.dropbox.com/scl/fi/wf29hbjoftwn0u56jfakw/DSC08821.jpg?rlkey=uqwx2c5j6f6e2fnojupmrv4oy&st=5jbuny75&raw=1";
 
 const About: React.FC = () => {
   return (
