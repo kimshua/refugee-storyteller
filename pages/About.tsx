@@ -39,7 +39,7 @@ const About: React.FC = () => {
 
             {/* Author Info */}
             <div className="flex-1">
-                <h3 className="text-xl text-white font-serif mb-4">The Author</h3>
+                <h3 className="text-xl text-white font-serif mb-4">Joshua Kim</h3>
                 <p className="mb-4 text-sm md:text-base">
                 I am a digital designer and human rights advocate based in Seoul. 
                 My work focuses on the intersection of technology and empathy.
